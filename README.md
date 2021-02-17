@@ -21,13 +21,13 @@ I have used the Online Retail data set. Preprocess and clean the data and applie
 
 **Loyal customer:** Up-sell higher value products
 
-**Promising Customer:** Recommend other products. Engage in loyalty programs.
+**Promising Customer:** Customer with good monetary, frequency and less recency. Recommend other products. Engage in loyalty programs.
 
 **Potential Loyalist:** Up-sell lower value products
 
-**At Risk:** Send personalised email or other messages to reconnect. Provide good offers and share valuable resources.
+**At Risk:** Have good frequency but awys from long days. Send personalised email or other messages to reconnect. Provide good offers and share valuable resources.
 
-**Can't lose them:** Win them back. Talk to them. Make them special offers. Make them feel valuable
+**Can't lose them:**  Seasonal Buyer with higher monetary. Win them back. Talk to them. Make them special offers. Make them feel valuable
 
 **Needs Attention:** Away from long time. Help them to get back
 
@@ -35,7 +35,7 @@ I have used the Online Retail data set. Preprocess and clean the data and applie
 
 **About to Sleep:** Reactivate them. Share valuable resources. Recommend popular products. Offer discounts.
 
-**Hibernating:** they are losing, promote to get them back
+**Hibernating:** they are losing, promote to get them back.
 
 
 Finally made a dashboard in google data studio. You can check it out. [RFM Segmentation Dashboard](https://datastudio.google.com/reporting/794d04ee-f2cc-4acc-9798-967b5aed142e)
