@@ -1,4 +1,4 @@
-# RFM_Segmentation
+# RFM Segmentation
 
 ### What is RFM Segmentation?
 
